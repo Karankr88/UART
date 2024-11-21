@@ -5,7 +5,7 @@
 // 
 // Create Date: 11.07.2024 01:17:22
 // Author Name: Karan Kumar singh
-// Module Name: uart_tx
+// Module Name: uart_rx
 // Project Name: UART 
 // Description: 
 // 
